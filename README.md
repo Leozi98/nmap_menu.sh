@@ -28,9 +28,10 @@ A simple Bash script that provides a menu-driven interface for common Nmap scann
 ```
 
 2. Make it executable:
-   ```bash
+
+```bash
    chmod +x nmap_menu.sh
-   ```
+```
 
 ## Usage
 
