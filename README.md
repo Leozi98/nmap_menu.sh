@@ -24,7 +24,7 @@ A simple Bash script that provides a menu-driven interface for common Nmap scann
 
 1. Copy the script to your Termux:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/reponame/main/nmap_menu.sh
+   git clone https://github.com/Leozi98/nmap_menu.sh.git
 ```
 
 2. Make it executable:
