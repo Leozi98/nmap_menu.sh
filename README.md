@@ -27,8 +27,8 @@ A simple Bash script that provides a menu-driven interface for common Nmap scann
    git clone https://github.com/Leozi98/nmap_menu.sh.git
 ```
 
-2. Make it executable:
-   ```
+## Make it executable:
+   ```bash
    chmod +x nmap_menu.sh
 ```
 
